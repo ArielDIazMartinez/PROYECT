@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\Asus\source\repos\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\Asus\source\repos\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\Asus\source\repos\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\Asus\source\repos\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\Asus\Desktop\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\Asus\Desktop\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\Asus\Desktop\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\Asus\Desktop\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\Asus\Desktop\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
